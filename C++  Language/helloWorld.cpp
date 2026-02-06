@@ -6,6 +6,7 @@ using namespace std;
 int main(){
     // cout is used to display output 
     // endl is use to go in next line
+    // instead of endl we can also use <<"\n"
 
     cout<<"Hello World !!" <<endl; 
     // return is used to come out from the function

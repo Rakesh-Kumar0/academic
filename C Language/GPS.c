@@ -9,6 +9,5 @@ int main(){
         printf("%d\n",a);
         a = a*2;
     }
-    
     return 0;
 }
